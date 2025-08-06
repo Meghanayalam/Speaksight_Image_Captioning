@@ -98,7 +98,7 @@ If enabled in the UI, captions can be spoken aloud using Google’s Text-to-Spee
 ## 🙋‍♀️ About the Author
 
 **Meghana Yalam**  
-Deep Learning Developer & NLP Enthusiast  
+Deep Learning & NLP Enthusiast  
 GitHub: [https://github.com/Meghanayalam](https://github.com/Meghanayalam)
 
 ## 📄 License
